@@ -1,0 +1,11 @@
+.pet {
+  border: 18px dotted blue;
+}
+
+.pet__picture {
+  width: 200px;
+}
+
+.pet--favourite {
+  border-color: green;
+}
